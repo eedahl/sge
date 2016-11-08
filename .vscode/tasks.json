@@ -13,7 +13,7 @@
         {
             "taskName": "build",
             // Show the output window only if unrecognized errors occur.
-            "showOutput": "always",
+            "showOutput": "silent",
             // Use the standard MS compiler pattern to detect errors, warnings and infos
             "problemMatcher": "$msCompile"
         }
